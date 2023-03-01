@@ -9,7 +9,7 @@ const multi =(x, y) => {
   }
 const sum = (x,y)=>{
     let res = x+y;
-    console.log("Result = ",res);
+    console.log("Result of Sum = ",res);
     return res;
 }
 
