@@ -1,4 +1,5 @@
  HEAD
+ HEAD
 const sum = (x,y)=>{
     let res = x+y;
     console.log("Result = ",res);
@@ -11,3 +12,11 @@ const sum = (x,y)=>{
     return res;
   }
  Divi
+
+const multi =(x, y) => {
+    let res = x * y;
+    console.log("Result = ", res);
+    return res;
+  }
+  
+ Multi
